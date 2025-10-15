@@ -1,7 +1,7 @@
 # 🐞 Fix this Fast  
 ### A GitHub + Python Bug-Fixing Challenge for Teams
 
-Welcome to the ***Fix this Fast*** challenge! This beginner-friendly activity is designed for university IT club members — including non-IT students — to learn how to fix broken code and collaborate using GitHub.
+Welcome to the ***Fix this Fast*** challenge! This beginner-friendly activity is designed to help members learn how to fix broken code and collaborate using GitHub.
 
 ---
 
