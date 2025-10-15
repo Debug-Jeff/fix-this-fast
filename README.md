@@ -1,7 +1,7 @@
-# 🐞 Debug Me If You Can  
+# 🐞 Fix this Fast  
 ### A GitHub + Python Bug-Fixing Challenge for Teams
 
-Welcome to the **Debug Me If You Can** challenge! This beginner-friendly activity is designed for university IT club members — including non-IT students — to learn how to fix broken code and collaborate using GitHub.
+Welcome to the ***Fix this Fast*** challenge! This beginner-friendly activity is designed for university IT club members — including non-IT students — to learn how to fix broken code and collaborate using GitHub.
 
 ---
 
@@ -33,8 +33,8 @@ Click the **Fork** button at the top-right of this repo to create your team's co
 Open your terminal or Git Bash and run:
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/debug-me-if-you-can.git
-cd debug-me-if-you-can
+git clone https://github.com/YOUR-USERNAME/fix-this-fast.git
+cd fix-this-fast
 ```
 ### 🌿 Create a Team Branch
 
